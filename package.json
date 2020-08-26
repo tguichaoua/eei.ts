@@ -1,0 +1,42 @@
+{
+    "name": "eei.ts",
+    "version": "1.0.0",
+    "description": "Provide an interface for NodeJs EventEmitter with event name and event argument type checking.",
+    "main": "",
+    "types": "index.d.ts",
+    "scripts": {
+        "v": "npm --no-git-tag-version version",
+        "prettier:format": "prettier --config .prettierrc src/**/*.ts --write",
+        "test": "tsc",
+        "start": "ts-node test.ts"
+    },
+    "keywords": [
+        "typescript",
+        "interface",
+        "nodejs",
+        "EventEmitter"
+    ],
+    "author": {
+        "name": "Tristan Guichaoua",
+        "email": "baanlohdev@gmail.com",
+        "url": "https://tguichaoua.github.io/"
+    },
+    "license": "MIT",
+    "homepage": "https: //github.com/tguichaoua/eei.ts",
+    "bugs": {
+        "url": "https://github.com/tguichaoua/eei.ts/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tguichaoua/eei.ts.git"
+    },
+    "devDependencies": {
+        "@types/node": "^12.12.54",
+        "prettier": "^2.1.1",
+        "ts-node": "^9.0.0",
+        "typescript": "^4.0.2"
+    },
+    "files": [
+        "index.d.ts"
+    ]
+}
