@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to EventEmitter Interface 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/eei.ts" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/EventEmitter Interface.svg">
+    <img alt="Version" src="https://img.shields.io/npm/v/eei.ts.svg">
   </a>
   <a href="https://github.com/tguichaoua/eei.ts#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
