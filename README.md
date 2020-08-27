@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to EventEmitter Interface 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/EventEmitter Interface" target="_blank">
+  <a href="https://www.npmjs.com/package/eei.ts" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/EventEmitter Interface.svg">
   </a>
   <a href="https://github.com/tguichaoua/eei.ts#readme" target="_blank">
@@ -10,7 +10,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/tguichaoua/eei.ts/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/tguichaoua/EventEmitter Interface" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/tguichaoua/eei.ts" />
   </a>
 </p>
 
@@ -118,7 +118,7 @@ interface MyEvents {
 
 👤 **Tristan Guichaoua**
 
-* Website: tguichaoua.github.io
+* Website: [tguichaoua.github.io](https://tguichaoua.github.io)
 * Github: [@tguichaoua](https://github.com/tguichaoua)
 
 ## 🤝 Contributing
