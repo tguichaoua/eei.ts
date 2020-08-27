@@ -4,7 +4,7 @@ export declare type EventsDef<E> = keyof E extends string | symbol
       }
     : never;
 
-interface EventEmitterFull<E extends EventsDef<E>> {
+export declare interface EventEmitterFull<E extends EventsDef<E>> {
     addListener<K extends keyof E>(
         event: K,
         listener: (...args: E[K]) => void
