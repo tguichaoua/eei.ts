@@ -1,6 +1,6 @@
 {
     "name": "eei.ts",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Provide an interface for NodeJs EventEmitter with event name and event argument type checking.",
     "main": "",
     "types": "index.d.ts",
