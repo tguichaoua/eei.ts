@@ -1,16 +1,16 @@
 <h1 align="center">Welcome to EventEmitter Interface 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/eei.ts" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/eei.ts.svg">
+    <img alt="Version" src="https://img.shields.io/npm/v/eei.ts.svg?style=for-the-badge" height="20">
   </a>
   <a href="https://github.com/tguichaoua/eei.ts#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg?style=for-the-badge" height="20" />
   </a>
   <a href="https://github.com/tguichaoua/eei.ts/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-lightgrey.svg?style=for-the-badge" height="20" />
   </a>
   <a href="https://github.com/tguichaoua/eei.ts/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/tguichaoua/eei.ts" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/tguichaoua/eei.ts?style=for-the-badge" height="20" />
   </a>
 </p>
 
